@@ -31,6 +31,7 @@ I'm maintaining a daily collection of my LeetCode solutions.
 | 2 | Next Greater Element I | Stack |
 | 3 | Remove Stars From a String | Stack |
 | 4 | Final Prices With a Special Discount | Array |
+| 5 | XOR Operation | XorOperation.java |
 
 **Goal: Solve one problem every day 🚀**
 
