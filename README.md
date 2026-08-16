@@ -10,7 +10,8 @@ I'm currently learning **Java, Data Structures & Algorithms** and building my co
 - ☕ Learning and practicing **Java**
 - 🧠 Improving my **Data Structures & Algorithms** skills
 - 🔧 Practicing **Git & GitHub**
-- 🎯 Working towards becoming a better software developer
+- 🐧 Learning Linux / Ubuntu
+- 🎯 Building small Java projects
 
 ### 🛠️ Technologies I'm Learning
 
@@ -26,18 +27,38 @@ I'm maintaining a daily collection of my LeetCode solutions.
 👉 [My LeetCode Solutions](https://github.com/gaganapriya638-prog/leetcode)
 
 | Day | Problem | Topic |
-|---|---|---|
+|-----|---------|-------|
 | 1 | Valid Parentheses | Stack |
 | 2 | Next Greater Element I | Stack |
 | 3 | Remove Stars From a String | Stack |
-| 4 | Final Prices With a Special Discount | Array |
-| 5 | XOR Operation | XorOperation.java |
+| 4 | Baseball Game | Stack |
+| 5 | XOR Operation | Bit Manipulation |
+| 6 | Asteroid Collision | Stack |
+| 7 | Simplify Path | Stack |
 
-**Goal: Solve one problem every day 🚀**
+**🎯 Goal: Solve one problem every day and keep improving.**
+
+### 💻 Projects
+
+#### 🎓 Student Grade Calculator
+
+A simple Java console application that calculates:
+
+- Total marks
+- Average marks
+- Student grade
+
+👉 [View Student Grade Calculator](https://github.com/gaganapriya638-prog/Student-Grade-Calculator)
 
 ### 🌱 My Goal
 
 > Learn consistently, build projects, solve problems, and become a better developer every day.
+
+### 📊 Current Progress
+
+- 🧩 LeetCode Problems: **7**
+- 💻 Java Projects: **1**
+- 🔥 Daily Coding Streak: **7 Days**
 
 ### 📫 Connect With Me
 
