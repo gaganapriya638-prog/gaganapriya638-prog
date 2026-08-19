@@ -35,6 +35,8 @@ I'm maintaining a daily collection of my LeetCode solutions.
 | 5 | XOR Operation | Bit Manipulation |
 | 6 | Asteroid Collision | Stack |
 | 7 | Simplify Path | Stack |
+| 8 | Binary Search | Binary Search |
+
 
 **🎯 Goal: Solve one problem every day and keep improving.**
 
